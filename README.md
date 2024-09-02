@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Discord Bot README
 Good Kompany's Event Bot
 
@@ -78,3 +79,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For questions or support, please open an issue on this repository.
+=======
+# good-company-event-bot
+>>>>>>> a8360fd86c65ec067d1a324df497c4cd0b360100
