@@ -1,16 +1,14 @@
-<<<<<<< HEAD
 Discord Bot README
-Good Kompany's Event Bot
+Good Company's Event Bot
 
-Description
-This bot is a versatile and customizable Discord bot designed to manage events, handle user tokens, and interact with members in various engaging ways. It comes with powerful features such as event lifecycle management, token payouts, database management, and much more, providing a complete solution for Discord communities.
+Description This bot is a versatile and customizable Discord bot designed to manage events, handle user tokens, and interact with members in various engaging ways. It comes with powerful features such as event lifecycle management, token payouts, database management, and much more, providing a complete solution for Discord communities.
 
 Features
-Event Management: Handles event creation, participation tracking, and event finalization.
-Token Management: Distributes different types of tokens (Event, Leadership, Competitive, War) based on member participation.
-Database Integration: Utilizes an asynchronous database pool for efficient data management.
-Custom Commands: Provides various commands for users and admins to interact with the bot.
-Logging and Error Handling: Comprehensive logging and error handling to ensure smooth operation.
+- Event Management: Handles event creation, participation tracking, and event finalization.
+- Token Management: Distributes different types of tokens (Event, Leadership, Competitive, War) based on member participation.
+- Database Integration: Utilizes an asynchronous database pool for efficient data management.
+- Custom Commands: Provides various commands for users and admins to interact with the bot.
+- Logging and Error Handling: Comprehensive logging and error handling to ensure smooth operation.
 
 Requirements
 Python 3.8 or higher
@@ -26,7 +24,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install the Required Packages
 
 bash
-Copy code
 pip install -r requirements.txt
 Configuration
 Environment Variables
